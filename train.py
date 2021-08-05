@@ -103,6 +103,8 @@ else:
 
 # Loss plot
 logger = Logger(opt.n_epochs, len(dataloader))
+import os
+os.makedirs('output/', exist_ok = True)
 ###################################
 from tqdm import tqdm
 ###### Training ######
