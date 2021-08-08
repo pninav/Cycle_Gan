@@ -11,9 +11,7 @@ The selected 30 Monet images (done by choosing the farthest 30 points, after dim
 
 Model checkpoints will be saved at:
 
-output/netG_A2B.pth
-
-output/netG_B2A.pth
+netG_A2B.pth, netG_B2A.pth
 
 ### Evaluation notebook:
 https://drive.google.com/file/d/1QxWmf7VrWMstAG9p80qslF2nmzCc-5yx/view?usp=sharing
