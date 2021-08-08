@@ -9,9 +9,7 @@ It is recommended that you mount your google drive for easier access to the chec
 Kaggle dataset will be downloaded and saved.
 The selected 30 Monet images (done by choosing the farthest 30 points, after dimensionality reduction) will be saved.
 
-Model checkpoints will be saved at:
-
-netG_A2B.pth, netG_B2A.pth
+Model checkpoints will be saved at: netG_A2B.pth, netG_B2A.pth
 
 ### Evaluation notebook:
 https://drive.google.com/file/d/1QxWmf7VrWMstAG9p80qslF2nmzCc-5yx/view?usp=sharing
